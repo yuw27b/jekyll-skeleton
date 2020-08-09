@@ -1,0 +1,26 @@
+body {
+	font-family: sans-serif;
+	min-width: 900px;
+	margin: 0;
+	padding: 0;
+	color: #444;
+	background-color: #FFF;
+	font-size: 15px;
+	line-height: 1.6;
+}
+
+a {
+	border: none;
+	text-decoration: none;
+	color: "ocean";
+	cursor: pointer;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.content {
+	width: 900px;
+	margin: 0 auto;
+}
